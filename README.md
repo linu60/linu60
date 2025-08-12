@@ -41,22 +41,12 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![Linu's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuuprasi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linuuprasi&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linuuprasi&theme=radical)
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect With Me## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linu60.github.io/LINU-PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linuuprasi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linuuprasi)
+
 
 ---
 💙 *"Keep Learning, Keep Building, Keep Growing"*
